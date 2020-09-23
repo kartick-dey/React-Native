@@ -1,0 +1,4 @@
+const { createIconSet } = require("react-native-vector-icons")
+
+1. react-native-navigation
+2. react-native-vector-createIconSet
